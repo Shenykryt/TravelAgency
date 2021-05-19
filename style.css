@@ -1,0 +1,53 @@
+body {
+    font-family: sans-serif;
+}
+
+h1 {
+    text-align: center;
+    font-family: cursive;
+}
+
+.back {
+    background-image: linear-gradient(lightgreen,orange);
+}
+
+p {
+    color:red;
+    font-size:30px;
+}
+
+iframe {
+    margin:10px;
+}
+
+nav {
+    border-bottom:3px solid blue;
+    border-top:3px solid blue;
+    display:flex;
+    justify-content:center;
+    justify-content:space-around;
+}
+
+nav a {
+    color:blue;
+    border-bottom:3px dotted blue;
+    text-decoration:none;
+}
+
+main {
+    border-bottom:3px solid green;
+    padding:10px;
+    margin:0px;
+}
+
+header {
+    height:130px;
+    margin:0px;
+    padding:5px;
+}
+
+footer {
+    height:100px;
+    margin:0px;
+    padding:10px;
+}
